@@ -1,11 +1,10 @@
 //
 //  CustomAnimation.h
-//  InteractiveUIViewController
+//  InterActiveViewController
 //
-//  Created by Sohail on 19/01/2020.
-//  Copyright © 2020 Sohail. All rights reserved.
+//  Created by Muhammad, Shauket | RASIA on 20/1/20.
+//  Copyright © 2020 Muhammad, Shauket | RASIA. All rights reserved.
 //
-
 #import <Foundation/Foundation.h>
 #import <HWPanModal/HWPanModal.h>
 
